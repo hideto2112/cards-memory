@@ -23,6 +23,6 @@
     "eslint-loader": "2.2.0",
     "eslint-plugin-vue": "5.2.3",
     "onsenui": "2.10.8",
-    "vue-onsenui": "2.6.2"
+    "vue-onsenui": "2.7.2"
   }
 }
